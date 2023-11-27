@@ -4,7 +4,7 @@ A tool to decompress texts extracted from an Animal Crossing Wild World ROM.
 
 Compilation : `gcc lzww.c -o lzww`
 
-Usage : `./lzww -d text.bmg` /!\ it will overwrite the file
+Usage : `./lzww -d text.bmg` ⚠️ it will overwrite the file
 
 Also there is a script to decompress all the files recursively from a root folder : `./recurse_lzww.sh [folder]`
 
