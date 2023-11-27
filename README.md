@@ -1,4 +1,4 @@
-# ACWW_texts_decompressor
+# ACWW texts decompressor
 
 A tool to decompress texts extracted from an Animal Crossing Wild World ROM.
 
